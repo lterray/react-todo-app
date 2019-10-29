@@ -1,3 +1,7 @@
+# React Todo App
+
+Made according to https://www.youtube.com/watch?v=sBws8MSXN7A&t=2763s replacing some class components to functional ones
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
